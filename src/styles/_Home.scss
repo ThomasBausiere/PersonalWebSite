@@ -1,0 +1,65 @@
+.acceuil{
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url('../background_thomas.png');   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-size:70px;
+    padding-top: 25%;
+    padding-left: 150px;
+    
+}
+h2{
+    font-size:55px;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.media-container{
+    display: flex;
+    padding-left: 240px;
+    margin: 20px 0 40px 0;
+    border-left: 3px solid black;
+
+}
+
+.medias-btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: $color-2 ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    cursor:pointer;
+}
+
+.icones{
+    width: 27px;
+}
+
+.btn {
+    margin-left: 150px;
+    background:transparent;
+    text-decoration: none;
+    padding:10px 30px;
+    border-radius: 25px;
+    border: 2px solid black;
+    color:$color-2;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.btn:hover{
+    background:$color-0;
+    color:#f1f1f1;
+
+
+}
+
