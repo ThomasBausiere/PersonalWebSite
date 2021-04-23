@@ -1,16 +1,17 @@
 .acceuil{
-    
-    position: absolute;
+
+    position: fixed;
     width: 100%;
     height: 100%;
-    background: url('../background_thomas.png');   
+    background: url('../background_thomas.png');
+    background-color: $color-2;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
 }
 h1{
     font-size:70px;
-    padding-top: 25%;
+    padding-top: 15%;
     padding-left: 150px;
     
 }
@@ -25,6 +26,7 @@ h2{
     padding-left: 240px;
     margin: 20px 0 40px 0;
     border-left: 3px solid black;
+    
 
 }
 
@@ -50,8 +52,8 @@ h2{
     text-decoration: none;
     padding:10px 30px;
     border-radius: 25px;
-    border: 2px solid black;
-    color:$color-2;
+    border: 2px solid $color-0;
+    color:$color-0;
     transition: all 0.2s ease-in-out;
 
 }
@@ -62,4 +64,3 @@ h2{
 
 
 }
-
