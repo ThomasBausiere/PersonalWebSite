@@ -1,5 +1,5 @@
 import Navigation from "../components/Navigation";
-import Contact from "./Contact";
+// import Contact from "./Contact";
 
 
 const About = () => {
