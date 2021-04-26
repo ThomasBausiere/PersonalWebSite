@@ -19,8 +19,8 @@ const About = () => {
                     <div className="aboutme"> 
                         <h1>A propos</h1>
                         <h1 className="h2">Thomas Bausière / 28 ans / Web Développeur</h1>
-                        <p>Depuis toujours passioné d'informatique, j'ai décidé de me réorienté à mon 27ème annivairsaire. <br/>
-                        Je me suis tourné vers le centre de formation M2I pour m'apprendre les rudiments du code. Grâce à mes professeurs, j'ai appris bon nombre de choses, tel que le C# et le .Net.<br/>
+                        <p>Depuis toujours passioné d'informatique, j'ai décidé de me réorienter à mon 27ème anniversaire. <br/>
+                        Je me suis tourné vers le centre de formation M2I apprendre les rudiments du code. Grâce à mes professeurs, j'ai appris bon nombre de choses, tel que le C# et le .Net.<br/>
                         A la fin de ma formation, j'ai choisi de me tourner vers le developpement de sites web. Je me suis entrainé grâce à mes cours et également des sites comme par exemple OpenClassRoom et Codeingame afin prendre confiance en mes compétences.</p>
                         <p>Armé de determination pour devenir Web-Dev, je cherche maintenant une équipe pour m'épanouir.</p>
                     </div>
