@@ -26,8 +26,9 @@ const Projets = () => {
                     <img src="/img/background_amel.png" alt="Amel"/>
                 </div>
                 <div className="prez2">
-                    <h1>PorteFolio</h1>
-                    <p>Amel Merzouk est une jeune graphiste à L'iscom, elle m'a demandé de réaliser son porte-folio afin d'exposer ses créations.<br/>
+                    <h1>Portfolio</h1>
+                    <p>Projet en cours de réalisation</p>
+                    <p>Amel Merzouk est une jeune graphiste à L'iscom, elle m'a demandé de réaliser son portfolio afin d'exposer ses créations.<br/>
                     (Le site n'est pas encore en ligne, il arrivera bientot!!)
                     </p>
                     <a href="" class="btn">Accéder au site</a>
