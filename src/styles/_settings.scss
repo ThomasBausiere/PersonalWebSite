@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 $font-1: "Poppins", sans-serif;
 
 $color-0: black;
-$color-1: #F1F1F1F1;
-$color-2: #F1F1F1F1;
+$color-1: #f7f7f7ce;
+$color-2: #c0b1b194;
 $color-3: #282c34;
 $color-4: rgb(32, 35, 42);
 
@@ -13,7 +15,7 @@ $color-4: rgb(32, 35, 42);
 }
 body {
   
-  background-color: $color-4;
+  background-color: $color-1;
   max-width: 100%;
   height:cover;
   font-family: $font-1;

@@ -1,0 +1,45 @@
+
+.articles{
+    margin-top:30px;
+    margin-left:30px;
+
+}
+
+.articles .article{
+    display:flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.articles .article .left img {
+    height: 300px;
+    width:500px;
+
+}
+
+.articles .article .right{
+    max-width:50%;
+    margin-left:40px;
+}
+.articles .article .right h1{
+    color:$color-4;
+    padding-top: 0;
+    padding-left: 0;
+}
+.articles .article .right p.date{
+    color: $color-3;
+}
+.articles .article .right p.description{
+    color:$color-4;
+    margin-bottom: 20px;
+    padding-left:0;
+}
+.articles .btn{
+    margin-left:0;
+}
+
+@media screen and (max-width:600px){
+    .articles .article .right{
+        max-width: 100%;
+    }
+}
