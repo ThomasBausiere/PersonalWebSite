@@ -41,5 +41,19 @@
 @media screen and (max-width:600px){
     .articles .article .right{
         max-width: 100%;
+        margin-left:5px;
+    }
+    .articles .article .right .btn{
+        margin-left:20%;
+    }
+    .articles .article .left img{
+        width: 100%;
+        height:auto;
+    }
+    .projets .articles{
+    margin-left:0;
+    }
+    .projet .articles .article {
+        margin-bottom: 30px;
     }
 }
