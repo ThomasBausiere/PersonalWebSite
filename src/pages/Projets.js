@@ -60,7 +60,7 @@ const Projets = () => {
                 <div className="right">
                 
                 <h1>Mon projet React !</h1>
-                <p className="description">Alors oui.. C'est bien d'utiliser la tech appropriée, et peut etre qu'une application React c'est un peu trop pour un site vitrine, mais je voulais faire du React pour apprendre, et progresser. Vous etes dessus, vous y naviguer. J'espere que vous appreciez !</p>
+                <p className="description">Alors oui.. C'est bien d'utiliser la tech appropriée, et peut etre qu'une application React c'est un peu trop pour un site vitrine, mais je voulais faire du React pour apprendre, et progresser. Vous etes dessus, vous y naviguer. J'espere que vous appreciez!</p>
                 
                     <a href="https://github.com/ThomasBausiere/PersonalWebSite" class="btn" target="blank">Voir sur GitHub</a>
                 </div>     

@@ -40,15 +40,12 @@ const Home = () => {
         <div className="acceuil">
             
             <Navigation/>
-            <div className="contents">
-            
+            <div className="contents">            
                 <h1>THOMAS BAUSIERE</h1>
                 <h2>Web développeur</h2>
 
                 <div className="media-container"> </div>
                 <a href="https://www.linkedin.com/in/thomas-bausiere-2163051b3/" class="btn" target="_blank">Contactez moi</a>
-                
-           
             </div>
          
         </div>

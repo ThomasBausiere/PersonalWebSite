@@ -28,12 +28,11 @@ const About = () => {
                         A la fin de ma formation, j'ai choisi de me tourner vers le developpement de sites web. Je me suis entrainé grâce à mes cours et également des sites comme par exemple OpenClassRoom et Codeingame afin prendre confiance en mes compétences.</p>
                         <p>Armé de determination pour devenir Web-Dev, je cherche maintenant une équipe pour m'accueillir.</p>
                     </div>
-                    <hr/>
+                    
 
                     {/* <div className="btn"><a href="C:\Users\Maz0\Desktop\cvo\src\ThomasBausiere_CV.pdf">Télécharger mon C.V.</a></div> */}
                     {/* Deuxième encart à en bas à droite */}
 
-                {/* <Contact/> */}
                 </div>
             </div>
 

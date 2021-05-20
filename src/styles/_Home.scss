@@ -6,23 +6,10 @@
     background: url('../background_thomas.png');
     background-color: $color-2;
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center;
 }
-.acceuil h1{
-    font-size:70px;
-    padding-top: 15%;
-    padding-left: 150px;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    
-}
-.acceuil h2{
-    font-size:55px;
-    padding-top: 0;
-    margin-top: 0;
-    padding-left: 150px;
-}
+
 
 .media-container{
     display: flex;
@@ -66,4 +53,43 @@
     color:#f1f1f1;
 
 
+}
+
+.acceuil .contents{
+    margin-top: 500px;
+    margin-left: 10%;
+}
+
+
+@media screen and (max-width:1000px){
+    .acceuil{
+        background:url('../background_thomas2.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+  
+    .acceuil .contents h1, h2{
+        color:$color-0;        
+
+    }
+
+
+
+    .acceuil .contents .btn{
+        background-color: $color-1;
+    }
+    
+}
+
+@media screen and (max-width:575px){
+.acceuil .contents{
+    margin-top: 700px;
+    margin-left: 10%;
+}
+
+.acceuil .contents h1, h2{
+    color:$color-1;        
+
+}
 }
