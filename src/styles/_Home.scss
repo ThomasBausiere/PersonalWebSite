@@ -84,12 +84,24 @@
 
 @media screen and (max-width:575px){
 .acceuil .contents{
-    margin-top: 700px;
+    margin-top: 240px;
     margin-left: 10%;
 }
-
+.acceuil .contents h1{
+    font-size: 25px;
+}
+.acceuil .contents h2,{
+    font-size: 18px;
+}
 .acceuil .contents h1, h2{
-    color:$color-1;        
+    color:$color-0;   
+
+
+}
+.acceuil .contents .btn{
+    margin-top: 25px;
+    margin-left:20%;
+    margin-right:auto;
 
 }
 }
