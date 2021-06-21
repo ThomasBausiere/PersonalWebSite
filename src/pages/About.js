@@ -25,12 +25,14 @@ const About = () => {
                         <h1 >Thomas Bausière</h1>
 
                         
-                        <p>Depuis toujours passioné d'informatique, j'ai décidé de me réorienter à mon 27ème anniversaire. <br/>
-                        Je me suis tourné vers le centre de formation M2I pour apprendre les rudiments du code. Grâce à mes professeurs, j'ai appris bon nombre de choses, tel que le C# et le .Net.<br/>
-                        A la fin de ma formation, j'ai choisi de me tourner vers le developpement de sites web. Je me suis entrainé grâce à mes cours et également des sites comme par exemple OpenClassRoom et Codeingame afin de prendre confiance en mes compétences.</p>
+                        <p>Depuis toujours passionné d'informatique, j'ai décidé de me lancer!<br/>Grâce à OpenClassRooms, j'ai la chance de pouvoir effectuer mon alternance ! <br/>
+                        Je suis à la recherche d'une entreprise que je pourrais soutenir et aider avec mes compétences !<br/>
+                        J'ai un profil qui se distingue par deux caracteristiques: la communication et le developpement. <br/>
+                        </p>
                        
-                        <p>Je suis actuellement  à la recherche d'une entreprise et d'un centre de formation pour mon alternance. J'espere pouvoir vous prouver que je suis motivé et déterminé pour devenir Developpeur ! </p>
-                        <p>Je sais que j'ai encore beaucoup à apprendre et j'ai vraiment  hâte de continuer cette aventure en entreprise!</p>
+                        <p>Aujourd'hui, mon objectif c'est de mettre à profit mes atouts en codant des sites web et étant une force de proposition dans l'équipe qui m'accueillera. <br/>
+                         </p>
+                        <p>J'ai vraiment hâte de vous rejoindre!</p>
                     </div>
                     
 
