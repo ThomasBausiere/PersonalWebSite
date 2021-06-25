@@ -1,7 +1,7 @@
 import Navigation from "../components/Navigation";
 import Typewriter from 'typewriter-effect/dist/core';
 
-// import Contact from "./Contact";
+
 
 
 
@@ -45,7 +45,7 @@ const Home = () => {
                 <h2>Web développeur</h2>
 
                 <div className="media-container"> </div>
-                <a href="https://www.linkedin.com/in/thomas-bausiere-2163051b3/" class="btn" target="_blank">Contactez moi</a>
+                <a href="https://www.linkedin.com/in/thomas-bausiere-2163051b3/" class="btn" target="_blank" rel="noreferrer" >Contactez moi</a>
             </div>
          
         </div>

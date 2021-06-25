@@ -10,8 +10,8 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "sass": "^1.32.8",
-    "typewriter-effect": "^2.17.0"
+    "sass": "^1.35.1",
+    "typewriter-effect": "^2.18.0"
   },
   "scripts": {
     "start": "react-scripts start",
