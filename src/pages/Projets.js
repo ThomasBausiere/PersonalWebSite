@@ -72,10 +72,10 @@ const Projets = () => {
                 </div>
                 <div className="right">
                 
-                <h1> [En cours de réalisation] Portfolio Amel Merzouk</h1>
+                <h1> Portfolio Amel Merzouk</h1>
                 <p className="description">Amel Merzouk est une étudiante en Graphisme et motion 3D à l'ISCOM Lille. Elle m'a demandé de réaliser son Portfolio afin d'y afficher ses travaux. La demande est précise, le challenge est élevé!
-                 Je travail sur ce site en ce moment, il n'est pas encore fini mais le sera prochainement </p>
-                
+                 </p>
+                 <a href="https://amelmerzouk.go.yo.fr" class="btn" target="blank">Aller sur le site</a>
                 </div>
             </div>
 
